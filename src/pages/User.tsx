@@ -5,8 +5,6 @@ import { FaCodepen, FaStore, FaUsers, FaUserFriends } from "react-icons/fa";
 
 import { RepoList } from "../components/repos/RepoList";
 
-import { UserType } from "../types/UserType";
-
 import { ApplicationContext } from "../store/ApplicationContext";
 
 import { getUser, getRepos } from "../store/Actions";
